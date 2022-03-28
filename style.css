@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(236, 221, 131);
+    background-size:cover;
+    background-position:initial;
+    text-align:center;
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    color:darkgreen;
+}
+
+h1,h2{
+    color: darkgreen;
+}
+
+input{
+    color: darkgreen;
+}
+
