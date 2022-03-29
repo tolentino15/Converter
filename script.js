@@ -1,6 +1,6 @@
-var taxa;
-var dolar;
-var real;
+let taxa;
+let dolar;
+let real;
 document.getElementById("botao2").disabled = true;
 document.getElementById("botao3").disabled = true;
 document.getElementById("botao0").disabled = true;
